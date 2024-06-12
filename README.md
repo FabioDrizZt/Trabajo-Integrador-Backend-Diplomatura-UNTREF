@@ -55,7 +55,6 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 ```plaintext
 /json
   - computacion.json
-  - electronicos.json
   - granjas.json
   - mobiliario.json
   - prendas.json
