@@ -1,182 +1,182 @@
 [
     {
-      "codigo": 1,
-      "nombre": "Notebook",
-      "precio": 999.99,
-      "categoria": "Computación"
+        "codigo": 1,
+        "nombre": "Notebook",
+        "precio": 999.99,
+        "categorias": ["Computación", "Electrónica"]
     },
     {
-      "codigo": 2,
-      "nombre": "Smartphone X10",
-      "precio": 699.99,
-      "categoria": "Telefonía"
+        "codigo": 2,
+        "nombre": "Smartphone X10",
+        "precio": 699.99,
+        "categorias": ["Telefonía", "Electrónica"]
     },
     {
-      "codigo": 3,
-      "nombre": "Televisor OLED",
-      "precio": 1299.99,
-      "categoria": "Hogar"
+        "codigo": 3,
+        "nombre": "Televisor OLED",
+        "precio": 1299.99,
+        "categorias": ["Hogar", "Electrónica"]
     },
     {
-      "codigo": 4,
-      "nombre": "Heladera",
-      "precio": 1899.99,
-      "categoria": "Línea blanca"
+        "codigo": 4,
+        "nombre": "Heladera",
+        "precio": 1899.99,
+        "categorias": ["Línea blanca", "Electrodomésticos"]
     },
     {
-      "codigo": 5,
-      "nombre": "Bafles Bluetooth",
-      "precio": 149.99,
-      "categoria": "Audio"
+        "codigo": 5,
+        "nombre": "Bafles Bluetooth",
+        "precio": 149.99,
+        "categorias": ["Audio", "Electrónica"]
     },
     {
-      "codigo": 6,
-      "nombre": "Proyector HD",
-      "precio": 499.99,
-      "categoria": "Video"
+        "codigo": 6,
+        "nombre": "Proyector HD",
+        "precio": 499.99,
+        "categorias": ["Video", "Electrónica"]
     },
     {
-      "codigo": 7,
-      "nombre": "Aspiradora",
-      "precio": 149.99,
-      "categoria": "Hogar"
+        "codigo": 7,
+        "nombre": "Aspiradora",
+        "precio": 149.99,
+        "categorias": ["Hogar", "Limpieza"]
     },
     {
-      "codigo": 8,
-      "nombre": "Cámara DSLR",
-      "precio": 299.99,
-      "categoria": "Video"
+        "codigo": 8,
+        "nombre": "Cámara DSLR",
+        "precio": 299.99,
+        "categorias": ["Video", "Fotografía"]
     },
     {
-      "codigo": 9,
-      "nombre": "Auriculares inalámbricos",
-      "precio": 99.99,
-      "categoria": "Audio"
+        "codigo": 9,
+        "nombre": "Auriculares inalámbricos",
+        "precio": 99.99,
+        "categorias": ["Audio", "Accesorios"]
     },
     {
-      "codigo": 10,
-      "nombre": "Tablet A12",
-      "precio": 399.99,
-      "categoria": "Computación"
+        "codigo": 10,
+        "nombre": "Tablet A12",
+        "precio": 399.99,
+        "categorias": ["Computación", "Electrónica"]
     },
     {
-      "codigo": 11,
-      "nombre": "Aire acondicionado",
-      "precio": 1499.99,
-      "categoria": "Línea blanca"
+        "codigo": 11,
+        "nombre": "Aire acondicionado",
+        "precio": 1499.99,
+        "categorias": ["Línea blanca", "Climatización"]
     },
     {
-      "codigo": 12,
-      "nombre": "Router WiFi",
-      "precio": 79.99,
-      "categoria": "Computación"
+        "codigo": 12,
+        "nombre": "Router WiFi",
+        "precio": 79.99,
+        "categorias": ["Computación", "Redes"]
     },
     {
-      "codigo": 13,
-      "nombre": "Smartphone Z20",
-      "precio": 799.99,
-      "categoria": "Telefonía"
+        "codigo": 13,
+        "nombre": "Smartphone Z20",
+        "precio": 799.99,
+        "categorias": ["Telefonía", "Electrónica"]
     },
     {
-      "codigo": 14,
-      "nombre": "Televisor QLED",
-      "precio": 1499.99,
-      "categoria": "Hogar"
+        "codigo": 14,
+        "nombre": "Televisor QLED",
+        "precio": 1499.99,
+        "categorias": ["Hogar", "Electrónica"]
     },
     {
-      "codigo": 15,
-      "nombre": "Heladera de dos puertas",
-      "precio": 2099.99,
-      "categoria": "Línea blanca"
+        "codigo": 15,
+        "nombre": "Heladera de dos puertas",
+        "precio": 2099.99,
+        "categorias": ["Línea blanca", "Electrodomésticos"]
     },
     {
-      "codigo": 16,
-      "nombre": "Bafles inteligente",
-      "precio": 179.99,
-      "categoria": "Audio"
+        "codigo": 16,
+        "nombre": "Bafles inteligente",
+        "precio": 179.99,
+        "categorias": ["Audio", "Electrónica"]
     },
     {
-      "codigo": 17,
-      "nombre": "Proyector 4K",
-      "precio": 899.99,
-      "categoria": "Video"
+        "codigo": 17,
+        "nombre": "Proyector 4K",
+        "precio": 899.99,
+        "categorias": ["Video", "Electrónica"]
     },
     {
-      "codigo": 18,
-      "nombre": "Robot aspirador",
-      "precio": 249.99,
-      "categoria": "Hogar"
+        "codigo": 18,
+        "nombre": "Robot aspirador",
+        "precio": 249.99,
+        "categorias": ["Hogar", "Limpieza"]
     },
     {
-      "codigo": 19,
-      "nombre": "Cámara sin espejo",
-      "precio": 599.99,
-      "categoria": "Video"
+        "codigo": 19,
+        "nombre": "Cámara sin espejo",
+        "precio": 599.99,
+        "categorias": ["Video", "Fotografía"]
     },
     {
-      "codigo": 20,
-      "nombre": "Auriculares Noise cancell.",
-      "precio": 149.99,
-      "categoria": "Audio"
+        "codigo": 20,
+        "nombre": "Auriculares Noise cancell.",
+        "precio": 149.99,
+        "categorias": ["Audio", "Accesorios"]
     },
     {
-      "codigo": 21,
-      "nombre": "Tablet E7",
-      "precio": 299.99,
-      "categoria": "Computación"
+        "codigo": 21,
+        "nombre": "Tablet E7",
+        "precio": 299.99,
+        "categorias": ["Computación", "Electrónica"]
     },
     {
-      "codigo": 22,
-      "nombre": "Aire acondicionado portátil",
-      "precio": 799.99,
-      "categoria": "Línea blanca"
+        "codigo": 22,
+        "nombre": "Aire acondicionado portátil",
+        "precio": 799.99,
+        "categorias": ["Línea blanca", "Climatización"]
     },
     {
-      "codigo": 23,
-      "nombre": "Router de alta velocidad",
-      "precio": 99.99,
-      "categoria": "Computación"
+        "codigo": 23,
+        "nombre": "Router de alta velocidad",
+        "precio": 99.99,
+        "categorias": ["Computación", "Redes"]
     },
     {
-      "codigo": 24,
-      "nombre": "Smartphone Y30",
-      "precio": 649.99,
-      "categoria": "Telefonía"
+        "codigo": 24,
+        "nombre": "Smartphone Y30",
+        "precio": 649.99,
+        "categorias": ["Telefonía", "Electrónica"]
     },
     {
-      "codigo": 25,
-      "nombre": "Televisor LED",
-      "precio": 799.99,
-      "categoria": "Hogar"
+        "codigo": 25,
+        "nombre": "Televisor LED",
+        "precio": 799.99,
+        "categorias": ["Hogar", "Electrónica"]
     },
     {
-      "codigo": 26,
-      "nombre": "Heladera 4 puertas",
-      "precio": 2499.99,
-      "categoria": "Línea blanca"
+        "codigo": 26,
+        "nombre": "Heladera 4 puertas",
+        "precio": 2499.99,
+        "categorias": ["Línea blanca", "Electrodomésticos"]
     },
     {
-      "codigo": 27,
-      "nombre": "Barra de sonido",
-      "precio": 199.99,
-      "categoria": "Audio"
+        "codigo": 27,
+        "nombre": "Barra de sonido",
+        "precio": 199.99,
+        "categorias": ["Audio", "Electrónica"]
     },
     {
-      "codigo": 28,
-      "nombre": "Proyector portátil",
-      "precio": 399.99,
-      "categoria": "Video"
+        "codigo": 28,
+        "nombre": "Proyector portátil",
+        "precio": 399.99,
+        "categorias": ["Video", "Electrónica"]
     },
     {
-      "codigo": 29,
-      "nombre": "Robot de limpieza",
-      "precio": 299.99,
-      "categoria": "Hogar"
+        "codigo": 29,
+        "nombre": "Robot de limpieza",
+        "precio": 299.99,
+        "categorias": ["Hogar", "Limpieza"]
     },
     {
-      "codigo": 30,
-      "nombre": "Cámara de acción",
-      "precio": 149.99,
-      "categoria": "Video"
+        "codigo": 30,
+        "nombre": "Cámara de acción",
+        "precio": 149.99,
+        "categorias": ["Video", "Fotografía"]
     }
-  ]  
+]
