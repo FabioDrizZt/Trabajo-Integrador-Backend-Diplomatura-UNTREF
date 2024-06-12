@@ -9,6 +9,7 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 ## Datasets Proporcionados
 
 - **computacion.json**: Productos de computación, partes, accesorios y repuestos.
+- **electronicos.json**: Productos electrónicos de consumo.
 - **granjas.json**: Frutas y verduras.
 - **mobiliario.json**: Muebles de hogar y oficina.
 - **prendas.json**: Prendas de vestir.
@@ -55,6 +56,7 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 ```plaintext
 /json
   - computacion.json
+  - electronicos.json
   - granjas.json
   - mobiliario.json
   - prendas.json
