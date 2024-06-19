@@ -40,7 +40,7 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
      
 6. **Borrar un producto**
    - Endpoint para borrar un producto usando DELETE.
-   - Control de errores para manejar problemas durante la actualización.
+   - Control de errores para manejar problemas durante el borrado.
 
 7. **Control de errores**
    - Manejo de errores en la estructura de las solicitudes y respuestas.
