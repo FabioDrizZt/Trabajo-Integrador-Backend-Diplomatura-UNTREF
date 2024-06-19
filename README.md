@@ -81,7 +81,7 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 
 ## Instrucciones de Entrega
 
-1. **Fork** el repositorio desde [aquí](https://github.com/FabioDrizZt/Trabajo-Integrador-Backend-Diplomatura-UNTREF/).
+1. **Fork** el repositorio desde [aquí](https://github.com/FabioDrizZt/Trabajo-Integrador-Backend-Diplomatura-UNTREF/fork).
 2. **Clona** tu fork en tu máquina local.
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio-fork.git
