@@ -37,8 +37,12 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 5. **Modificar el precio de un producto**
    - Endpoint para cambiar el precio de un producto usando PATCH.
    - Control de errores para manejar problemas durante la actualización.
+     
+6. **Borrar un producto**
+   - Endpoint para borrar un producto usando DELETE.
+   - Control de errores para manejar problemas durante la actualización.
 
-6. **Control de errores**
+7. **Control de errores**
    - Manejo de errores en la estructura de las solicitudes y respuestas.
    - Respuesta adecuada con mensajes y códigos de error específicos.
    - Control de acceso a rutas no existentes con respuestas apropiadas.
