@@ -71,8 +71,6 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 /product.js
 ```
 
-
-
 ### Descripción de Archivos
 
 - **/json**: Carpeta que contiene los datasets JSON.
@@ -80,6 +78,27 @@ Podrás usar alguno de los datasets JSON proporcionados, o crear uno propio que 
 - **/app.js**: Archivo principal de la aplicación Node.js donde se define toda la lógica de rutas y la conexión a la base de datos.
 - **/database.js**: Archivo para configurar la conexión a la base de datos MongoDB.
 - **/product.js**: Archivo que contiene el esquema (schema) del producto utilizando Mongoose.
+
+## Instrucciones de Entrega
+
+1. **Fork** el repositorio desde [aquí](https://github.com/tu-repositorio).
+2. **Clona** tu fork en tu máquina local.
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio-fork.git
+   ```
+3. Realiza los cambios y sube tu código a tu fork.
+4. **Sube** los cambios a tu fork.
+   ```bash
+   git add .
+   git commit -m "Descripción de los cambios"
+   git push origin main
+   ```
+
+5. Agrega a los siguientes usuarios como colaboradores en tu repositorio:
+   - [FabioDrizZt](https://github.com/FabioDrizZt)
+   - [JuanNebbia](https://github.com/JuanNebbia)
+   - [NKrein](https://github.com/NKrein)
+   - [mathiasbarbosa](https://github.com/mathiasbarbosa)
 
 ## Conclusión
 
